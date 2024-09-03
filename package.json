@@ -1,6 +1,9 @@
 {
   "name": "str_vue_route",
-  "keywords": ["object to encrypted string", "object in route"],
+  "keywords": [
+    "object to encrypted string",
+    "object in route"
+  ],
   "version": "1.0.0",
   "private": false,
   "type": "module",
@@ -18,5 +21,17 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
     "vite": "^5.3.1"
-  }
+  },
+  "description": "Convert object to compressed and crypted string",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratham-IT/object_to_crypted_str.git"
+  },
+  "author": "Pratham IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratham-IT/object_to_crypted_str/issues"
+  },
+  "homepage": "https://github.com/Pratham-IT/object_to_crypted_str#readme"
 }
