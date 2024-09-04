@@ -1,7 +1,7 @@
 <script setup>
 
 import {onMounted} from "vue";
-import {useStrRoute} from "@/camp/officer.js";
+import {useStrRoute} from "@/obj_to_encrypted_str/officer.js";
 
 const strRoute = useStrRoute();
 onMounted(async () => {
